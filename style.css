@@ -87,7 +87,7 @@ body {
   }
   .coluna{
     column-count: 4;
-    column-gap: 0;
-    max-width: 400px;
-    margin: 200px;
+    column-gap: 5;
+    max-width: 700px;
+    margin: 50px;
   }
